@@ -12,3 +12,36 @@ header {
     justify-content: center;
 
 }
+
+.banner-form,
+.banner-info {
+    text-align: center;
+    margin: 80px 0;
+
+}
+
+.banner-form h2 {
+    font-size: 2em;
+    text-transform: capitalize;
+    color: #191919;
+}
+
+.banner-form .input-field {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.banner-form .fas {
+    font-size: 2em;
+    margin-right: 20px;
+    align-self: flex-end;
+    color: #456990;
+}
+
+.banner-form input {
+    font-size: 25px;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid #C97C5d;
+}
