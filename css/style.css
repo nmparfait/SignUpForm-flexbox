@@ -45,3 +45,9 @@ header {
     border: none;
     border-bottom: 3px solid #C97C5d;
 }
+
+.picture {
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
